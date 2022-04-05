@@ -1,15 +1,40 @@
-table {
-    display: table;
-    border-collapse: separate;
-    border-spacing: 2px;
-    border-color: red
-    }
-     thead {
-    display: table-header-group;
-    vertical-align: middle;
-    border-color: inherit
-    }
-     tbody {
-    display: table-row-group;
-    vertical-align: middle;
-    border-color: inherit
+
+  
+  table#table1 {
+    border: 1px solid #606060;
+    padding: 0.5rem;
+    border-spacing:0px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  table#table2 {
+    border: 1px solid #606060;
+    padding: 0.5rem;
+    border-spacing:0px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  
+  p{
+    text-align: justify;
+    text-indent: 50px;
+    padding: 0.5rem;
+  }
+  
+  th{
+    background-color: #aaaaaa;
+  }
+  
+  h2, h3 {
+    padding: 0.5rem;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  body {
+    font-size: large;
+  }
