@@ -1,4 +1,9 @@
 
+  nav {
+    display: block;
+    border-style: dotted;
+  }
+  
   
   table#table1 {
     border: 5px solid #606060;
